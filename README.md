@@ -49,5 +49,5 @@ The WhatsApp Chat Analyzer is a web application built using Streamlit that enabl
 ### 🛠️ **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/whatsapp-chat-analyzer.git
-   cd whatsapp-chat-analyzer
+   git clone https://github.com/your-username/chat-analyzer.git
+   cd chat-analyzer
